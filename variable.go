@@ -12,6 +12,16 @@ func main() {
 	fmt.Println(name)
 }
 
+// multiple variable
+// func main() {
+// 	var (
+// 		firstName = "Egi"
+// 		lastName  = "Wiratama"
+// 	)
+// 	fmt.Println(firstName)
+// 	fmt.Println(lastName)
+// }
+
 // menggunakan kata kunci :=
 // func main() {
 
