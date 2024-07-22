@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(person["name"])
 	fmt.Println(person["address"])
 	fmt.Println(person)
-	fmt.Println(person["posisi"])
+	// fmt.Println(person["posisi"]) salah, mencetak nilai default
 
 	book := make(map[string]string)
 	book["title"] = "Buku Golang"
